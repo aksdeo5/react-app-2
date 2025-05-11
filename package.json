@@ -15,9 +15,11 @@
     "bootstrap": "^5.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "simple-zustand-devtools": "^1.1.0",
     "zustand": "^5.0.4"
   },
   "devDependencies": {
+    "@types/node": "^22.15.17",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^4.4.1",
